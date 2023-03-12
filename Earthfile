@@ -1,3 +1,4 @@
+VERSION 0.7
 ARG spark_version=3.1.1
 ARG hadoop_version=3.2.0
 ARG hive_version=2.3.7
